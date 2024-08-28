@@ -50,6 +50,8 @@ const Providers = (props: ProviderProps) => {
         <link rel="apple-touch-icon" sizes="180x180" href="/icons/icon-192x192.png" />
         <link rel="manifest" href="/manifest.json" />
         <link rel="shortcut icon" href="/favicon.ico" />
+        <link rel="icon" href="/ruta/del/favicon.ico" type="image/x-icon">
+
 
         {/* Fonts */}
         {/* <link rel="preload" href="/fonts/IAAB3.woff2" as="font" type="font/woff2" />
