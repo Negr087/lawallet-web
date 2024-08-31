@@ -51,7 +51,6 @@ const Providers = (props: ProviderProps) => {
         <link rel="manifest" href="/manifest.json" />
         <link rel="shortcut icon" href="/favicon.ico" />
 
-
         {/* Fonts */}
         {/* <link rel="preload" href="/fonts/IAAB3.woff2" as="font" type="font/woff2" />
         <link rel="preload" href="/fonts/SF-Regular.woff2" as="font" type="font/woff2" />
